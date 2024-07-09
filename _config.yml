@@ -111,19 +111,19 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "이민식"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "차별화된 게임을 만들어내는 개발자, 꼼꼼하게 빈 틈을 채워 나가는 개발자, 사람들이 필요로 하는 것이 무엇인지 고민하는 개발자가 되고 싶은 신입 개발자입니다."
-  location         : "South Korea"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:leeminsiks79@email.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/minsiknote"
+# author:
+#  name             : "이민식"
+#  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#  bio              : "차별화된 게임을 만들어내는 개발자, 꼼꼼하게 빈 틈을 채워 나가는 개발자, 사람들이 필요로 하는 것# 이 무엇인지 고민하는 개발자가 되고 싶은 신입 개발자입니다."
+#  location         : "South Korea"
+#  email            :
+#  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:leeminsiks79@email.com"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/minsiknote"
 
 # Site Footer
 footer:
